@@ -21,9 +21,14 @@ Underline 2
 - aquí podemos usar formato *itálico*, pero también **bold** y ~~tachado~~
 
 # Listas
-1. Esto es un item de lista ordenada. <ol>
+1. Esto es un item de lista ordenada.
 2. Esto es un item.
 3. Esto es un item.
-- Esto es un item de lista desordenada. <ul>
 - Esto es un item de lista desordenada.
 - Esto es un item de lista desordenada.
+- Esto es un item de lista desordenada.
+
+# Links
+- <a href="http://www.google.com">Esto es un link HTML </a>
+- [Esto es un link en markdown](http://www.google.com)
+- [Esto es un link al index](index.html)
