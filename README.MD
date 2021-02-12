@@ -99,3 +99,11 @@ Esto es otro texto dividido por asteriscos:
 ***
 Esto es otro texto dividido por subguiones:
 ___
+
+# Saltos de lineas
+Esto es nuestro primer párrafo.
+
+Esto es nuestro segundo párrafo.
+
+Esto es nuestro tercer párrafo.
+- Lista
